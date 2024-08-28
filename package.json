@@ -1,5 +1,5 @@
 {
-  "gitRepoUrl": "https://github.com/fye270/nav",
+  "gitRepoUrl": "https://fywang.netlify.app",
   "provider": "Github",
   "branch": "main",
   "hashMode": true,
